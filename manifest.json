@@ -1,0 +1,22 @@
+{
+    "dir": "ltr",
+    "lang": "en",
+    "name": "TheRapUp",
+    "scope": "/site/",
+    "display": "browser",
+    "start_url": "https://tomrycraft.github.io/site/",
+    "short_name": "RapUP",
+    "theme_color": "transparent",
+    "description": "This site is all about discussing topics in the hiphop community",
+    "orientation": "any",
+    "background_color": "transparent",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/images/site/assets/images/logo-373x471.png",
+            "type": "image/png",
+            "sizes": "373x471"
+        }
+    ]
+}
