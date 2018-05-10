@@ -17,6 +17,96 @@
             "src": "/images/site/assets/images/logo-373x471.png",
             "type": "image/png",
             "sizes": "373x471"
+        },
+        {
+            "src": "/images/319bace3-0080-7544-8cb6-ea644bb328a2.webPlatform.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/d2b699d4-54d5-73ba-7e05-245cd89f6ead.webPlatform.png",
+            "sizes": "1240x600",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/eea33897-def6-cf34-9f37-8c3f319bda84.webPlatform.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/16e2230e-9bbe-99be-4c83-00f448389252.webPlatform.png",
+            "sizes": "150x150",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/05d676af-6113-e078-1283-9da7e4920a32.webPlatform.png",
+            "sizes": "88x88",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/eb942a68-7b8c-1665-11e7-ad389393496f.webPlatform.png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/b26124e1-8153-164e-b4b8-7b62602aac94.webPlatform.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/994923ac-2a69-2a3c-2d4f-5898aec60831.webPlatform.png",
+            "sizes": "620x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/7f0de3ff-e5ed-8fb1-a463-86a481cc98f3.webPlatform.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/a0394c12-35df-952f-d2aa-267eddca526e.webPlatform.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/b939dcb5-37d2-a82e-493f-c56fdf91901a.webPlatform.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/cadf53be-8b33-6cbd-41dc-a8036aba2981.webPlatform.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/df2079d3-992d-f7e2-76e6-d6efba7803ab.webPlatform.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/32e41bee-1a9c-5d79-2223-71d2c398392d.webPlatform.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/5cda5f83-2aef-a6a5-51a8-a6ace3e6c55c.webPlatform.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/38877b56-c31f-64dc-6fde-886422800f3b.webPlatform.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/ddac9abe-1457-d2c4-b2f3-6d8f4442d717.webPlatform.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/c2ca7a1a-4dac-9356-1853-d32a1d1d4c6e.webPlatform.png",
+            "sizes": "76x76",
+            "type": "image/png"
         }
     ]
 }
